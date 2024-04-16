@@ -2,9 +2,8 @@
 This is the hvybmx website.
 
 It is built from:
-* Nginx:stable:alpine
-* PHP:
-* Mariadb:lts
+* nginx:stable-alpine
+* php:8.3.6-fpm-alpine
 
 ##  Installation
  
